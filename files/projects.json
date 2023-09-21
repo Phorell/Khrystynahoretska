@@ -2,7 +2,7 @@
 	"items":[
 		{
 			"id":9,
-			"image":"img/projects/quic.png",
+			"image":"img/projects/quic.jpg",
 			"url":"https://phorell.github.io/Quickit/"
 		},
 		{
@@ -12,17 +12,17 @@
 		},
 		{
 			"id":7,
-			"image":"img/projects/id-studio.png",
+			"image":"img/projects/id-studio.jpg",
 			"url":"https://phorell.github.io/idStudio/"
 		},
 		{
 			"id":6,
-			"image":"img/projects/growfy.png",
+			"image":"img/projects/growfy.jpg",
 			"url":"https://phorell.github.io/Growfy/"
 		},
 		{
 			"id":5,
-			"image":"img/projects/handyman.png",
+			"image":"img/projects/handyman.jpg",
 			"url":"https://phorell.github.io/HandyMan/"
 		},
 		{
@@ -37,12 +37,12 @@
 		},
 		{
 			"id":2,
-			"image":"img/projects/assest.png",
+			"image":"img/projects/assest.jpg",
 			"url":"https://phorell.github.io/Assets/"
 		},
 		{
 			"id":1,
-			"image":"img/projects/freedom.png",
+			"image":"img/projects/freedom.jpg",
 			"url":"https://phorell.github.io/Freedom/"
 		}
 	]
