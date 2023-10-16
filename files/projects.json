@@ -1,6 +1,11 @@
 {
 	"items":[
 		{
+			"id":11,
+			"image":"img/projects/nft.jpg",
+			"url":"https://phorell.github.io/NFT/"
+		},
+		{
 			"id":10,
 			"image":"img/projects/funiro.jpg",
 			"url":"https://phorell.github.io/Funiro/"
